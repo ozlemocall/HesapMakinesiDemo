@@ -1,4 +1,4 @@
-# 🧮 Gelişmiş Dinamik Hesap Makinesi (C# WinForms)
+# 🧮  Dinamik Hesap Makinesi (C# WinForms)
 
 Bu proje, **2. Sınıf "Programlama II"** dersimde gördüğüm nesne yönelimli programlama (OOP) ve form mimarisi konularından hareketle geliştirdiğim öğretici bir temel uygulamadır. Dışarıdan bakıldığında standart bir hesap makinesi gibi görünse de, projenin en büyük özelliği standart "sürükle-bırak" (Designer) mantığıyla **yapılmamış** olmasıdır. 
 
